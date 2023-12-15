@@ -1,8 +1,5 @@
--- Criação do banco de dados
 CREATE DATABASE IF NOT EXISTS empresa_de_alimentos;
 
--- Seleção do banco de dados
-USE empresa_de_alimentos;
 
 -- Criação da tabela de produtos
 CREATE TABLE IF NOT EXISTS produtos (
