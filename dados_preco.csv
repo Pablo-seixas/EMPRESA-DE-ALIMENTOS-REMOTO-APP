@@ -1,0 +1,21 @@
+ID, Tipo de Comida, Prato, Preço (R$), Quantidade em Estoque
+1, Hambúrgueres, Hambúrguer Clássico, 60, 100
+2, Pizza, Pizza Margherita, 80, 80
+3, Comida Japonesa, Sushi (12 peças), 120, 50
+4, Pratos com Carne, Frango Assado, 100, 60
+5, Massas, Macarrão à Bolonhesa, 72, 70
+6, Saladas, Salada Caesar, 48, 90
+7, Sobremesas, Sorvete de Baunilha (500ml), 40, 120
+8, Açaí, Açaí na Tigela (300g), 56, 80
+9, Marmitex, Marmitex (prato do dia), 52, 50
+10, Sanduíches, Sanduíche de Atum, 44, 75
+11, Pizza, Pizza de Calabresa, 80, 65
+12, Comida Japonesa, Sushi (24 peças), 240, 30
+13, Pratos com Carne, Frango Xadrez, 100, 55
+14, Massas, Lasanha à Bolonhesa, 72, 40
+15, Saladas, Salada Grega, 48, 85
+16, Sobremesas, Sorvete de Chocolate (500ml), 40, 110
+17, Açaí, Açaí na Tigela (600g), 112, 60
+18, Marmitex, Marmitex (prato vegetariano), 52, 40
+19, Sanduíches, Sanduíche de Frango, 44, 70
+20, Hambúrgueres, Hambúrguer Vegano, 60, 80
