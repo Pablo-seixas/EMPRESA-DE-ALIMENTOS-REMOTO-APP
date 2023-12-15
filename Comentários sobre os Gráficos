@@ -1,0 +1,21 @@
+Distribuição de Preços dos Itens:
+
+Oferece uma visão detalhada da variação de preços, auxiliando em estratégias de precificação.
+Gráfico de Dispersão entre Preço (R$) e Quantidade em Estoque:
+
+Ilustra a relação entre preço e disponibilidade em estoque, útil para gestão de estoque e estratégias de precificação.
+Matriz de Dispersão entre Variáveis Numéricas:
+
+Explora visualmente as relações entre diversas variáveis, identificando padrões e tendências.
+Mapa de Calor da Correlação entre Variáveis Numéricas:
+
+Destaca a força e direção das correlações, fornecendo insights sobre dependências entre variáveis.
+Histograma dos Preços:
+
+Mostra a distribuição de preços, ajudando na compreensão da diversidade de valores no catálogo.
+Vendas e Devoluções por Produto:
+
+Apresenta a relação entre vendas e devoluções, permitindo identificar produtos com maior taxa de devolução.
+Projeção de Lucro Futuro por Produto:
+
+Projeta o lucro futuro, auxiliando na identificação de produtos com maior potencial de lucro.
