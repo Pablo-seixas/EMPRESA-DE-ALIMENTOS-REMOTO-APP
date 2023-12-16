@@ -6,8 +6,7 @@ Análise dos Dados Financeiros
 Estatísticas Descritivas
 Antes de nos aprofundarmos na gestão financeira, é crucial compreender as estatísticas descritivas dos dados financeiros disponíveis:
 
-markdown
-Copy code
+
 |         | ID  | Preço (R$) | Quantidade em Estoque |
 |---------|----:|-----------:|-----------------------:|
 | count   | 20  | 20.000000  |             20.000000  |
