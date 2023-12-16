@@ -1,0 +1,50 @@
+# Business Intelligence na Empresa de Alimentos Remoto App
+
+## Introdução
+
+A Empresa de Alimentos Remoto App está embarcando em uma jornada significativa de otimização e crescimento por meio da implementação de estratégias de Business Intelligence (BI). Neste artigo, exploraremos como a análise de dados e visualizações gráficas contribuem para decisões mais informadas e estratégias eficazes na gestão de produtos, preços e estoque.
+
+## Estatísticas Descritivas
+
+Antes de adentrar nas visualizações gráficas, é fundamental compreender as estatísticas descritivas que delineiam a estrutura dos dados. O conjunto de dados revela informações cruciais sobre produtos, preços e estoque:
+
+```markdown
+|         | ID  | Preço (R$) | Quantidade em Estoque |
+|---------|----:|-----------:|-----------------------:|
+| count   | 20  | 20.000000  |             20.000000  |
+| mean    | 10.5| 76.000000  |             70.500000  |
+| std     | 5.92| 45.662377  |             23.614224  |
+| min     | 1   | 40.000000  |             30.000000  |
+| 25%     | 5.75| 48.000000  |             53.750000  |
+| 50%     | 10.5| 60.000000  |             70.000000  |
+| 75%     | 15.25| 85.000000 |             81.250000  |
+| max     | 20  |240.000000  |            120.000000  |
+
+
+Visualizações Gráficas e Análises
+Distribuição de Preços dos Itens
+Distribuição de Preços dos Itens
+
+A visualização da distribuição de preços destaca a variedade de faixas de preço no catálogo da Empresa de Alimentos Remoto App. Este insight é crucial para estratégias de precificação e segmentação de mercado.
+
+Gráfico de Dispersão entre Preço (R$) e Quantidade em Estoque
+Gráfico de Dispersão entre Preço e Estoque
+
+O gráfico de dispersão revela a relação entre o preço dos itens e a quantidade disponível em estoque. Essa visualização fornece insights essenciais para otimizar o estoque e maximizar a lucratividade.
+
+Histograma dos Preços
+Histograma dos Preços
+
+O histograma oferece uma visão detalhada da distribuição de preços, identificando concentrações específicas e auxiliando na compreensão da diversidade de preços no catálogo.
+
+Vendas e Devoluções por Produto
+Vendas e Devoluções por Produto
+
+A visualização da relação entre vendas e devoluções para cada produto fornece insights valiosos sobre a popularidade e a satisfação do cliente. Esses dados orientam estratégias de marketing e melhorias nos produtos.
+Projeção de Lucro Futuro por Produto
+Projeção de Lucro Futuro por Produto
+
+A projeção do lucro futuro, baseada em simulações considerando popularidade, variação de preço e estoque, oferece uma visão estratégica para a Empresa de Alimentos Remoto App. Essa análise é instrumental na formulação de estratégias de negócios de longo prazo.
+
+mplementação de Business Intelligence na Empresa de Alimentos Remoto App demonstra o compromisso da empresa em tomar decisões fundamentadas em dados. As visualizações gráficas e análises exploratórias oferecem uma compreensão mais profunda do catálogo, do comportamento do consumidor e das oportunidades de otimização. À medida que a empresa avança, a contínua aplicação de BI será um ingrediente essencial para o sucesso contínuo no mercado competitivo.
+
