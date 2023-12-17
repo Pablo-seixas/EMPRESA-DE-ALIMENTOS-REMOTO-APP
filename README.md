@@ -1,6 +1,9 @@
   Bem-vindo ao meu incrível projeto! Aqui está o gráfico completo:
 
 
+  
+
+
 
 ![Texto Alternativo](https://raw.githubusercontent.com/Pablo-seixas/EMPRESA-DE-ALIMENTOS-REMOTO-APP/main/GR%C3%81FICO%20COMPLETO.png)
 
