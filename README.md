@@ -1,8 +1,4 @@
-                     # EMPRESA-DE-ALIMENTOS-REMOTO-APP
-
-
-
-Bem-vindo ao meu incrível projeto! Aqui está o gráfico completo:
+  Bem-vindo ao meu incrível projeto! Aqui está o gráfico completo:
 
 
 
