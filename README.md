@@ -2,7 +2,9 @@
 
 Bem-vindo ao meu incrível projeto! Aqui está o gráfico completo:
 
-![Texto Alternativo](C:\Users\pablo_y7v\Pictures\imagens_power_bi\GRÁFICO COMPLETO.jpg)
+![Texto Alternativo](https://github.com/Pablo-seixas/EMPRESA-DE-ALIMENTOS-REMOTO-APP/raw/main/GR%C3%81FICO%20COMPLETO.png)
+
+
 
 Projeto de Análise de Dados - Empresa de Alimentos
 Este projeto tem como objetivo realizar uma análise de dados para uma empresa de alimentos, explorando diversas visualizações gráficas e projeções futuras com base no conjunto de dados disponível.
